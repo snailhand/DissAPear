@@ -22,5 +22,5 @@ The [Method](https://www.wepc.com/gaming/league-of-legends/how-to-appear-offline
 This program basically blocks your PC from connecting to Riot's chat servers, allowing your status to appear offline to people in your friends list. 
 
 **Is there a tutorial on how to use the program?**  
-No, you literally only have to press a single button, there's no need for a tutorial.
+Yes, there is a [Tutorial](https://www.youtube.com/watch?v=qMsCt3UlAQ0) on how to install and use the program.
 

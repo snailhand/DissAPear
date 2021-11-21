@@ -6,7 +6,7 @@ Diss A Pear is an offline Mode Tool built for Garena SG/MY servers to enter an o
 
 # 🙋 FAQ
 **Where can I download?**  
-Click on [Releases](https://github.com/simkaiwen/DissAPear/releases)
+Click on [Releases](https://github.com/simkaiwen/DissAPear/releases) and download the latest version.
 
 **Can I still invite people? Can they invite me?**  
 You can invite your friends manually by entering their name.

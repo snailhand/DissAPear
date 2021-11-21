@@ -19,7 +19,7 @@ No, you won't be able to chat in lobbies. But your chat privileges will remain t
 **Is there a tutorial on how to use the program?**
 You litterally only have to press a single button, there's no need for a tutorial.
 
-**Can I talk in lobbies/champion select?**  
-No, you won't be able to chat in lobbies. But your chat privileges will remain the same in /all chat and in game.
+**Is there a tutorial on how to use the program?**  
+No, you literally only have to press a single button, there's no need for a tutorial.
 
 

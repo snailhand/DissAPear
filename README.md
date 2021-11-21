@@ -16,7 +16,7 @@ Your friends will not be able to invite you, even if they enter your name manual
 No, you won't be able to chat in lobbies. But your chat privileges will remain the same in /all chat and in game.
 
 **Is this program safe to use?**  
-The method used is completely safe, use at your own risk.
+The [Method](https://www.wepc.com/gaming/league-of-legends/how-to-appear-offline/) used is completely safe, use at your own risk.
 
 **How does the program work?**  
 This program basically blocks your PC from connecting to Riot's chat servers, allowing your status to appear offline to people in your friends list. 

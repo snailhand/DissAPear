@@ -1,11 +1,11 @@
 ![Logo](https://ibb.co/ct0qTWn)
 
-[![Discord](https://discordapp.com/users/191046465278181376/)
+[![Discord](https://discordapp.com/users/191046465278181376/)]
 
 # 🍐 DissAPear
 Offline Mode Tool is Pog
 
-# :tophat: FAQ
+# 🙋 FAQ
 **Where can I download?**  
 Click the [Releases](https://github.com/simkaiwen/DissAPear/releases)
 
@@ -18,3 +18,5 @@ No, you won't be able to chat in lobbies. But your chat privileges will remain t
 
 **Is there a tutorial on how to use the program?**
 You litterally only have to press a single button, there's no need for a tutorial.
+
+
